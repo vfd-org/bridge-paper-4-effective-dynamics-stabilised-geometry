@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: report
+title: "On the Effective Dynamics of Stabilised Geometry in Emergent Gravity Frameworks (BP4)"
+authors:
+  - family-names: Smart
+    given-names: Lee
+date-released: 2025-12-04
+institution: "Vibrational Field Dynamics Institute"
+contact:
+  - email: "contact@vibrationalfielddynamics.org"
+keywords:
+  - emergent gravity
+  - inertia
+  - mass
+  - stabilised geometry
+  - VFD
+  - effective dynamics
+license: "CC-BY-4.0"
+repository-code: "https://github.com/vfd-org/bridge-paper-4-effective-dynamics-stabilised-geometry"
